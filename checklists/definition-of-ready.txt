@@ -1,0 +1,12 @@
+Definition of Ready (DoR) Checklist
+
+A user story is considered Ready when:
+- The story is clearly written and understandable by the team
+- Acceptance criteria are defined
+- Dependencies are identified and managed
+- The story is estimated in story points
+- The story has business value defined
+- The priority is set in the backlog
+- The team agrees it can be completed within a sprint
+
+Purpose: Ensure that backlog items are well-prepared before entering a sprint.

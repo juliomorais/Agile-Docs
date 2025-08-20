@@ -1,0 +1,12 @@
+Definition of Done (DoD) Checklist
+
+A user story is considered Done when:
+- Code is implemented and peer-reviewed
+- Unit tests are written and passed
+- Integration tested successfully
+- Acceptance criteria are met
+- Documentation is updated (if applicable)
+- No critical bugs are open
+- Product Owner has reviewed and accepted
+
+Purpose: Ensure consistency and quality in deliveries across the team.

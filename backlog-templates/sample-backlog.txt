@@ -1,0 +1,12 @@
+Sample Product Backlog
+
+ID | User Story | Priority | MoSCoW | Business Value | Effort (Story Points) | Status
+1  | As a user, I want to log in using my email and password so that I can access my account | High | Must Have | 100 | 5 | To Do
+2  | As an admin, I want to generate monthly reports so that I can analyze performance | Medium | Should Have | 70 | 8 | In Progress
+3  | As a user, I want to reset my password so that I can recover access if forgotten | High | Must Have | 90 | 3 | Done
+4  | As a manager, I want to track KPIs on a dashboard so that I can monitor progress | Low | Could Have | 60 | 13 | To Do
+
+Notes:
+- Prioritization done using MoSCoW technique.
+- Business Value scored from 1 to 100.
+- Effort estimated in Story Points.
